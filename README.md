@@ -1,2 +1,2 @@
-# pos-zuanxichuang
-信用卡-POS机
+# charm_pj
+A small project based on charm_PHP
